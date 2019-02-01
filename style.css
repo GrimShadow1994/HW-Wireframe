@@ -4,7 +4,19 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    text-align: center;
+    margin: auto;
 }
 header {
-    background: #ebebeb
+    background: #ebebeb;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+nav {
+    background: #ebebeb;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+section {
+    float: left;
 }
