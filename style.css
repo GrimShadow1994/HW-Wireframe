@@ -20,4 +20,41 @@ nav {
 section {
     float: left;
     width: 495px;
+    background: #ebebeb;
+    margin: 10px 10px 10px 0px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
+article {
+    color: #ebebeb;
+    background: #777;
+    margin: 10px;
+    padding: 1px;
+}
+h2 {
+    background: #ebebeb;
+    color: #777;
+    font-size: 20px;
+    padding: 10px;
+    margin: 20px;
+} 
+.para {
+    background: #ebebeb;
+    color: #777;
+    margin: -10px 20px 20px 20px;
+    padding: 10px;
+}
+.clearfix {
+    overflow: auto;
+  }
+  aside {
+      background: #ebebeb;
+      margin: 20px 0px 20px 20px;
+      height: 230px;
+      padding: 10px;
+  }
+  footer {
+    background: #ebebeb;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+  }
